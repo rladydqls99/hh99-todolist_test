@@ -6,7 +6,7 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: 0,
-      contents: "1234567",
+      contents: "과제 제출 완료",
     },
   ]);
   // -------------------------------------------
